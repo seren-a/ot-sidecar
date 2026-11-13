@@ -1,1 +1,1 @@
-# ot-sidecare
+# ot-sidecar
